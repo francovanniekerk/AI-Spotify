@@ -1,6 +1,6 @@
 # Spotify AI Integration Breakdown
 
-A simple static website created for my HyperionDev coursework. It explains how Spotify uses Artificial Intelligence, Machine Learning and Generative AI to personalise the listening experience.
+A simple static website created for my coursework. It explains how Spotify uses Artificial Intelligence, Machine Learning and Generative AI to personalise the listening experience.
 
 ## Topics Covered
 
